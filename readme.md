@@ -8,7 +8,7 @@ Visit us at [phage.directory](http://phage.directory).
 
 This is the first version of Phage Directory, added here for record-keeping purposes. The site was conceived, designed, and put together in three days, so the code isn't very good (and it was also forked from another project and probably has a lot of stuff that has nothing to do with Phage Directory...).
 
-You can visit the original Phage Directory at https://v1.phagedirectory.surge.sh 
+You can visit the original Phage Directory at http://v1.phagedirectory.surge.sh 
 
 
 ## Mission
