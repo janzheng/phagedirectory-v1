@@ -4,6 +4,13 @@
 
 Visit us at [phage.directory](http://phage.directory).
 
+#### Notice
+
+This is the first version of Phage Directory, added here for record-keeping purposes. The site was conceived, designed, and put together in three days, so the code isn't very good (and it was also forked from another project and probably has a lot of stuff that has nothing to do with Phage Directory...).
+
+You can visit the original Phage Directory at https://v1.phagedirectory.surge.sh 
+
+
 ## Mission
 
 We are experiencing a global antibiotic resistance crisis, and we require alternative measures to treat patients unable to combat bacterial infections. Data collected by researchers around the world are stacking up in favour of a place for phage therapy in modern medicine.
