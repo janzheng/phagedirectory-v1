@@ -12,7 +12,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 # Middleman Gems
 gem "middleman", "~> 4.1"
 gem "middleman-blog"
-gem 'middleman-search' # https://github.com/manastech/middleman-search
+# gem 'middleman-search' # https://github.com/manastech/middleman-search
 
 gem "middleman-syntax"
 

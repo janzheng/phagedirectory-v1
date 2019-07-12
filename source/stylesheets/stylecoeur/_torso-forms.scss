@@ -68,6 +68,17 @@ $font-size-base-form: $font-size-base; // $size-base ;
 
 
 
+// Special styles
+
+// example of focus within
+// -- the PARENT element can be styled based on child elements
+// > wrapping element can be styled if anything inside it is focused.
+// > works for tab-index and contenteditable
+%focus-within, .--focus-within {
+  &:focus-within {
+    background: $color-main;
+  }
+}
 
 
 
